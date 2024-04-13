@@ -1,8 +1,8 @@
 ---
 license: apache-2.0
-base_model: openai/whisper-small
 tags:
 - generated_from_trainer
+base_model: openai/whisper-small
 model-index:
 - name: prueba-coser-whisper
   results: []
